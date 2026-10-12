@@ -249,9 +249,9 @@ export function Landing({ onStart, onSurprise }: Props) {
         <motion.figure {...reveal} className="mt-10 overflow-hidden rounded-[24px]">
           <img
             src={photoFor('bunyonyi')!.src}
-            alt="Lake Bunyonyi in morning mist, Uganda"
+            alt="Boats at a jetty on Lake Bunyonyi, Uganda"
             loading="lazy"
-            className="aspect-[16/9] w-full object-cover sm:aspect-[21/8]"
+            className="aspect-[16/9] w-full object-cover object-[50%_25%] sm:aspect-[21/8]"
           />
         </motion.figure>
 

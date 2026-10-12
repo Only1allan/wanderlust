@@ -76,10 +76,10 @@ export const PLACE_PHOTOS: PlacePhoto[] = [
     "place": "Lake Bunyonyi",
     "country": "Uganda",
     "src": "/places/bunyonyi.webp",
-    "author": "flowcomm",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lake_Bunyonyi,_Uganda.jpg"
+    "author": "BalukuBrian",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bunyonyi_Safaris_Resort_in_Kabale_District_near_Lake_Bunyonyi_03.jpg"
   }
 ];
 
