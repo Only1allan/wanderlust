@@ -351,3 +351,10 @@ cd wanderlust-index
 npx ampx sandbox --once      # write-up prompt: never invent quotes when the interview is empty ("Pick a place for me")
 ./scripts/deploy.sh          # Commons photo lookup also tries the name without generic words (Village, Old Town, ...)
 ```
+
+## 26. Frontend deploy: Lake Bunyonyi photo fix (2026-10-12 ~19:00 UTC)
+
+```bash
+cd wanderlust-index && ./scripts/deploy.sh
+```
+Replaced the landing result photo with one where the lake is clearly visible (Wikimedia Commons, BalukuBrian, CC BY-SA 4.0).
